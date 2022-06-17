@@ -1,2 +1,2 @@
 # Router
-SSR router for @SvaLit
+SSR router for SvaLit

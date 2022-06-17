@@ -1,0 +1,36 @@
+{
+  "name": "@svalit/router",
+  "version": "0.1.0-alpha.2",
+  "description": "SSR router for SvaLit",
+  "main": "index.mjs",
+  "type": "module",
+  "dependencies": {
+    "@lit-labs/router": "^0.1.0",
+    "svalit": "^0.1.0-alpha.13"
+  },
+  "exports": {
+    ".": "./index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvaLit/Router.git"
+  },
+  "keywords": [
+    "Router",
+    "Lit",
+    "SSR",
+    "SSG",
+    "Async",
+    "Vanilla"
+  ],
+  "author": {
+    "name": "Vladislav Ponomarev",
+    "email": "Git@PonomareVlad.ru",
+    "url": "https://PonomareVlad.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SvaLit/Router/issues"
+  },
+  "homepage": "https://github.com/SvaLit/Router#readme"
+}
