@@ -7,7 +7,7 @@ export class Router extends LitRouter {
     constructor(host, routes, options, ...args) {
         super(...arguments)
         if (options?.serverPath) this.serverPath = options?.serverPath
-        if (typeof process === "object") this._childRoutes = this.t = []
+        this._childRoutes = this.t = []
     }
 
     outlet() {

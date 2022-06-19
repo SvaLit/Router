@@ -1,6 +1,6 @@
 {
   "name": "@svalit/router",
-  "version": "0.1.0-alpha.2",
+  "version": "0.1.0-alpha.3",
   "description": "SSR router for SvaLit",
   "main": "index.mjs",
   "type": "module",
