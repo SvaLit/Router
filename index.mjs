@@ -1,4 +1,4 @@
-import {chain} from "svalit/utils.mjs";
+import {chain} from "@svalit/core/utils.mjs";
 import {Router as LitRouter} from '@lit-labs/router'
 
 export class Router extends LitRouter {
