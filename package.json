@@ -1,12 +1,12 @@
 {
   "name": "@svalit/router",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "SSR router for SvaLit",
   "main": "index.mjs",
   "type": "module",
   "dependencies": {
     "@lit-labs/router": "^0.1.1",
-    "svalit": "latest"
+    "@svalit/core": "latest"
   },
   "exports": {
     ".": "./index.mjs"
